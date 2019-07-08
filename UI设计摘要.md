@@ -21,8 +21,7 @@
 
 ### Material Design 中文版说明书：
 
- - ~~http://design.1sters.com/~~
-以上地址已经去世
+ - ~~http://design.1sters.com/~~ 该地址已经去世
  - https://www.mdui.org/design/
 
 
